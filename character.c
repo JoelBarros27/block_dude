@@ -11,3 +11,7 @@ int sub(int a, int b) {
 int mult(int a, int b) {
     return a * b;
 }
+
+void hello() {
+    printf("Hello World!\n");
+}
